@@ -8,3 +8,4 @@ use warnings;
 
 # Print a message.
 print "Hello, World!\n";
+print "Goodbye\n";
